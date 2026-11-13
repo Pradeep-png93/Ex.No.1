@@ -62,7 +62,8 @@ Step 7: Finalize and Export
 # Output
 # Fundamentals of Generative AI and Large Language Models (LLMs)
 
-<img width="1269" height="1240" alt="image" src="https://github.com/user-attachments/assets/0aa4f5e4-5505-4024-8e26-7e51b89beafe" />
+<img width="1024" height="1000" alt="image" src="https://github.com/user-attachments/assets/ef618a2c-8f48-470c-b030-8f3e28c9f62d" />
+
 
 
 ## Abstract
